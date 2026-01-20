@@ -1,0 +1,64 @@
+{
+  "cities": [
+    {
+      "name": "北京",
+      "temperature": 5,
+      "condition": "晴",
+      "humidity": 30,
+      "wind": "东北风3级"
+    },
+    {
+      "name": "上海",
+      "temperature": 12,
+      "condition": "多云",
+      "humidity": 60,
+      "wind": "东风2级"
+    },
+    {
+      "name": "广州",
+      "temperature": 22,
+      "condition": "阴",
+      "humidity": 80,
+      "wind": "南风2级"
+    },
+    {
+      "name": "深圳",
+      "temperature": 23,
+      "condition": "小雨",
+      "humidity": 85,
+      "wind": "南风3级"
+    }
+  ],
+  "forecast": [
+    {
+      "day": "今天",
+      "high": 12,
+      "low": 5,
+      "condition": "晴"
+    },
+    {
+      "day": "明天",
+      "high": 14,
+      "low": 6,
+      "condition": "多云"
+    },
+    {
+      "day": "后天",
+      "high": 15,
+      "low": 7,
+      "condition": "阴"
+    },
+    {
+      "day": "大后天",
+      "high": 13,
+      "low": 5,
+      "condition": "小雨"
+    },
+    {
+      "day": "第五天",
+      "high": 11,
+      "low": 4,
+      "condition": "多云"
+    }
+  ]
+}

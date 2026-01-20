@@ -1,0 +1,38 @@
+{
+  "theme": "light",
+  "language": "zh-CN",
+  "notifications": true,
+  "autoBackup": true,
+  "settings": [
+    {
+      "id": 1,
+      "name": "主题",
+      "value": "浅色",
+      "description": "选择应用主题颜色"
+    },
+    {
+      "id": 2,
+      "name": "语言",
+      "value": "简体中文",
+      "description": "选择界面语言"
+    },
+    {
+      "id": 3,
+      "name": "通知",
+      "value": "开启",
+      "description": "启用或禁用通知"
+    },
+    {
+      "id": 4,
+      "name": "自动备份",
+      "value": "每天",
+      "description": "设置数据自动备份频率"
+    },
+    {
+      "id": 5,
+      "name": "字体大小",
+      "value": "中",
+      "description": "调整界面字体大小"
+    }
+  ]
+}

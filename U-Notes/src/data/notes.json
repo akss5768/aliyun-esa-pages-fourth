@@ -1,0 +1,30 @@
+{
+  "initialNotes": [
+    {
+      "id": 1,
+      "title": "React 学习笔记",
+      "content": "React Hooks 是 React 16.8 新增的特性，它让你无需编写 class 就能使用 state 以及其他的 React 特性。\n\n常用的 Hooks 包括：\n- useState: 状态管理\n- useEffect: 副作用处理\n- useContext: 上下文共享\n- useMemo: 性能优化",
+      "category": "技术",
+      "createdAt": "2025-01-15",
+      "color": "bg-purple-100"
+    },
+    {
+      "id": 2,
+      "title": "读书计划",
+      "content": "今年要读的书单：\n1. 《深入理解计算机系统》\n2. 《JavaScript高级程序设计》\n3. 《设计模式》\n4. 《算法导论》\n\n每月至少阅读一本技术书籍。",
+      "category": "生活",
+      "createdAt": "2025-01-16",
+      "color": "bg-pink-100"
+    },
+    {
+      "id": 3,
+      "title": "项目待办事项",
+      "content": "项目开发计划：\n- 完成需求分析\n- 设计数据库结构\n- 开发后端接口\n- 前端页面开发\n- 测试和优化\n- 部署上线",
+      "category": "工作",
+      "createdAt": "2025-01-17",
+      "color": "bg-blue-100"
+    }
+  ],
+  "categories": ["全部", "技术", "生活", "工作", "灵感"],
+  "colors": ["bg-purple-100", "bg-pink-100", "bg-blue-100", "bg-green-100", "bg-yellow-100"]
+}

@@ -1,0 +1,39 @@
+{
+  "initialSongs": [
+    {
+      "id": 1,
+      "title": "夜曲",
+      "artist": "周杰伦",
+      "album": "十一月的萧邦",
+      "category": "流行",
+      "duration": "4:32",
+      "liked": false
+    },
+    {
+      "id": 2,
+      "title": "月光奏鸣曲",
+      "artist": "贝多芬",
+      "album": "钢琴奏鸣曲",
+      "category": "古典",
+      "duration": "5:12",
+      "liked": true
+    },
+    {
+      "id": 3,
+      "title": "Stairway to Heaven",
+      "artist": "Led Zeppelin",
+      "album": "Led Zeppelin IV",
+      "category": "摇滚",
+      "duration": "8:02",
+      "liked": false
+    }
+  ],
+  "categories": [
+    "全部",
+    "流行",
+    "古典",
+    "摇滚",
+    "电子",
+    "其他"
+  ]
+}

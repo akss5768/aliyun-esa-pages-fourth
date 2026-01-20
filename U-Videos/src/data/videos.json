@@ -1,0 +1,43 @@
+{
+  "initialVideos": [
+    {
+      "id": 1,
+      "title": "React教程入门",
+      "duration": "45:30",
+      "category": "教程",
+      "views": 1205,
+      "thumbnail": ""
+    },
+    {
+      "id": 2,
+      "title": "搞笑视频合集",
+      "duration": "12:45",
+      "category": "娱乐",
+      "views": 3540,
+      "thumbnail": ""
+    },
+    {
+      "id": 3,
+      "title": "自然纪录片",
+      "duration": "58:20",
+      "category": "纪录片",
+      "views": 890,
+      "thumbnail": ""
+    },
+    {
+      "id": 4,
+      "title": "编程实战",
+      "duration": "32:15",
+      "category": "教程",
+      "views": 2100,
+      "thumbnail": ""
+    }
+  ],
+  "categories": [
+    "全部",
+    "教程",
+    "娱乐",
+    "纪录片",
+    "其他"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "initialProjects": [
+    {
+      "id": 1,
+      "name": "网站重构",
+      "category": "进行中",
+      "progress": 65,
+      "members": 5,
+      "deadline": "2025-02-15"
+    },
+    {
+      "id": 2,
+      "name": "移动端开发",
+      "category": "进行中",
+      "progress": 40,
+      "members": 3,
+      "deadline": "2025-03-01"
+    },
+    {
+      "id": 3,
+      "name": "API设计",
+      "category": "已完成",
+      "progress": 100,
+      "members": 2,
+      "deadline": "2025-01-10"
+    },
+    {
+      "id": 4,
+      "name": "数据分析",
+      "category": "计划中",
+      "progress": 0,
+      "members": 4,
+      "deadline": "2025-04-01"
+    }
+  ],
+  "categories": [
+    "全部",
+    "进行中",
+    "已完成",
+    "暂停",
+    "计划中"
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "initialWorkouts": [
+    {
+      "id": 1,
+      "name": "跑步",
+      "category": "有氧",
+      "duration": 30,
+      "calories": 300,
+      "date": "2025-01-15"
+    },
+    {
+      "id": 2,
+      "name": "举重",
+      "category": "力量",
+      "duration": 45,
+      "calories": 200,
+      "date": "2025-01-16"
+    },
+    {
+      "id": 3,
+      "name": "瑜伽",
+      "category": "柔韧",
+      "duration": 60,
+      "calories": 150,
+      "date": "2025-01-17"
+    }
+  ],
+  "categories": [
+    "全部",
+    "有氧",
+    "力量",
+    "柔韧",
+    "其他"
+  ]
+}

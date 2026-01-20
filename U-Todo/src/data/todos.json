@@ -1,0 +1,11 @@
+{
+  "initialTodos": [
+    { "id": 1, "text": "完成项目文档", "completed": false, "priority": "高", "category": "工作" },
+    { "id": 2, "text": "学习 React Hooks", "completed": false, "priority": "中", "category": "学习" },
+    { "id": 3, "text": "健身锻炼", "completed": true, "priority": "低", "category": "健康" },
+    { "id": 4, "text": "准备会议材料", "completed": false, "priority": "高", "category": "工作" },
+    { "id": 5, "text": "阅读技术博客", "completed": false, "priority": "中", "category": "学习" }
+  ],
+  "categories": ["全部", "工作", "学习", "健康", "生活"],
+  "priorities": ["高", "中", "低"]
+}
