@@ -43,7 +43,9 @@ function Home() {
         note.id === editingNote.id ? editingNote : note
       ))
     } else {
-      const newId = notes.length > 0 ? Math.max(...notes.map(n => n.id)) + 1 : 1
+      // 生成唯一的ID，考虑当前最大ID和时间戳
+      const maxId = notes.length > 0 ? Math.max(...notes.map(n => n.id)) : 0
+      const newId = Date.now() // 使用时间戳确保唯一性
       setNotes([...notes, {
         ...editingNote,
         id: newId,
