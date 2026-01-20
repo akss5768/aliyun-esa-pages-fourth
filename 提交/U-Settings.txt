@@ -1,0 +1,27 @@
+作品访问地址:
+https://u-settings.5e61f340.er.aliyun-esa.net/
+
+github仓库地址:
+https://github.com/akss5768/aliyun-esa-pages-fourth/tree/main/U-Settings
+
+
+作品说明:
+# U-Settings 系统设置
+
+U-Settings 是一个系统设置应用，帮助您管理系统配置选项和个人偏好设置。
+
+## 功能特性
+
+- **数据持久化** - 使用 LocalStorage 本地存储数据
+- **响应式设计** - 完美适配桌面和移动设备
+- **明亮清新** - 现代化界面设计
+
+## 技术栈
+
+- **前端框架**: React 18
+- **路由**: React Router
+- **UI样式**: Tailwind CSS 3.4
+- **状态管理**: React Hooks
+- **数据存储**: LocalStorage
+- **构建工具**: Vite
+- **图标库**: Lucide React

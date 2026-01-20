@@ -1,5 +1,5 @@
 import { useState, useEffect } from 'react'
-import { Plus, Edit, Trash2, Search, Calendar, Tag } from 'lucide-react'
+import { Plus, Edit, Trash2, Search, Calendar, Tag, FileText } from 'lucide-react'
 import notesData from '../data/notes.json'
 
 function Home() {
